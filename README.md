@@ -36,7 +36,7 @@
 
 
 ## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">Here</a>
-[![image][https://parkhy0sh1n.github.io/Portfolio/
+![portfolio](https://github.com/parkhy0sh1n/parkhy0sh1n/assets/121929284/e877eff9-e0e1-4bca-9ac1-b6ec77f76b39)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20you%20for%20visiting&section=footer" />
 
