@@ -1,4 +1,4 @@
-### Welcome to MIN GitHub!
+### 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcom%20to%20MIN%20GitHub" />
 
 
@@ -21,7 +21,7 @@
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
 
-- BackEnd : <span><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></span>
+- BackEnd : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/></span>
 
