@@ -37,3 +37,6 @@
 
 ## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">Here</a>
 [![image][https://parkhy0sh1n.github.io/Portfolio/
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20you%20for%20visiting&section=footer" />
+
