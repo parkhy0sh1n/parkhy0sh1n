@@ -1,4 +1,4 @@
-### 환영합니다!
+### Welcome to my GitHub!
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
@@ -6,10 +6,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋‍♂️ Personal Info
-- Choi Deok Gyeong
-- Seoul National University (SNU)
-- Computer Science and Engineering (CSE) 16
-- hjcdg197@gmail.com
+- 김민서
+- 두원공과대학교 IT 융합 스마트 소프트웨어과 졸업
+- 구디아카데미 공공데이터 융합 자바/스프링 개발자 양성과정 61기 수료
+- parkhy0sh1n@naver.com
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
@@ -47,8 +47,5 @@
 <span><img src="https://img.shields.io/badge/Zeplin-ffbe22?style=flat"/></span>
 <span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
 
-## ✏️ Blog For Learning - <a href="https://it-eldorado.tistory.com">Here</a>
-[![image](https://user-images.githubusercontent.com/40573259/153624815-81711042-78c9-4c50-b358-55fde89ed6d7.png)](https://it-eldorado.tistory.com)
-
-## 📝 Portfolio Website - <a href="https://cdg-portfolio.com">Here</a>
-[![image](https://user-images.githubusercontent.com/40573259/153706944-9629da7f-6c01-4e9f-bef8-a1e61c6940ae.png)](https://cdg-portfolio.com)
+## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">Here</a>
+[![image][https://parkhy0sh1n.github.io/Portfolio/
