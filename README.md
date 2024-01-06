@@ -1,4 +1,5 @@
-### Hi there 👋
+### 환영합니다!
+<hr>
 
 <!--
 **parkhy0sh1n/parkhy0sh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
