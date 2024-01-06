@@ -1,20 +1,24 @@
 ### 환영합니다!
 <hr>
 
-<!--
-**parkhy0sh1n/parkhy0sh1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+🙋‍♂️ Personal Info
+Choi Deok Gyeong
+Seoul National University (SNU)
+Computer Science and Engineering (CSE) 16
+hjcdg197@gmail.com
+🔨 Technology Stacks
+Frontend :                
+Backend :    
+Mobile App : 
+Deployment :      
+Version Control :   
+Communication :    
+✏️ Blog For Learning - Here
+image
+
+📝 Portfolio Website - Here
+image
