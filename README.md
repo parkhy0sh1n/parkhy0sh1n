@@ -1,5 +1,6 @@
 ### Welcome to MIN GitHub!
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcom%20to%20MIN%20GitHub
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcom%20to%20MIN%20GitHub" />
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
 <br>
