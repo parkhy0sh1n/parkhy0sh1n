@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcom%20to%20MIN%20GitHub" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?parkhy0sh1n=anuraghazra&theme=merko&show_icons=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?parkhy0sh1n=anuraghazra&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋‍♂️ Personal Info
 - (주)이트리즈시스템 재직 중
