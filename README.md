@@ -32,8 +32,8 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 
 
-## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">Here</a>
-![portfolio](https://github.com/parkhy0sh1n/parkhy0sh1n/assets/121929284/e877eff9-e0e1-4bca-9ac1-b6ec77f76b39)
+## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">링크</a>
+![김민서-PORTFOLIO](https://github.com/parkhy0sh1n/parkhy0sh1n/assets/121929284/cea11d24-9c8c-47fc-8a4d-e92388dc50e7)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20you%20for%20visiting&section=footer" />
 
