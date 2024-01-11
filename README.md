@@ -33,7 +33,7 @@
 
 
 ## 📝 Portfolio Website - <a href="https://parkhy0sh1n.github.io/Portfolio/">링크</a>
-![김민서-PORTFOLIO](https://github.com/parkhy0sh1n/parkhy0sh1n/assets/121929284/cea11d24-9c8c-47fc-8a4d-e92388dc50e7)
+![김민서-PORTFOLIO](https://github.com/parkhy0sh1n/parkhy0sh1n/assets/121929284/330a5561-1173-4ddc-ad1d-1d2097320f1a)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Thank%20you%20for%20visiting&section=footer" />
 
