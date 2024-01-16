@@ -20,7 +20,7 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></span>
 
 - BackEnd : <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
+<span><img src="https://icons8.kr/icon/2572/%EC%9E%90%EB%B0%94-%EC%BB%A4%ED%94%BC-%EC%BB%B5-%EB%A1%9C%EA%B3%A0"/></span>
 <span><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></span>
