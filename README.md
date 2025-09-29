@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhy0sh1n&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🙋‍♂️ Personal Info
-- 전)이트리즈시스템
+- 전)그루마케팅 개발팀 사원
+- 전)이트리즈시스템 개발팀 인턴
 - 구디아카데미 공공데이터 융합 자바/스프링 개발자 양성과정 61기 수료
 - 두원공과대학교 IT 융합 스마트 소프트웨어과 졸업
 - parkhy0sh1n@naver.com
