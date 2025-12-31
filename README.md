@@ -21,7 +21,7 @@
 
 
 
-## 🔨 Technology Stacks
+## 🔨 TECHNOLOGY STACKS
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=Nuxt&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=Pinia&logoColor=white"></span>
